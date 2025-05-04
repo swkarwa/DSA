@@ -1,4 +1,3 @@
-from back_tracking.leetcode_733_flood_fill import image
 from typing import List
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
